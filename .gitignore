@@ -54,3 +54,5 @@ dkms.conf
 Reserve.Apresentacao/obj/
 Reserve.Dominio/obj/
 Reserve.Servico/
+Reserve.Aplicacao/obj/
+Reserve.Apresentacao/bin/
