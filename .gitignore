@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.vs/
+Reserve.Apresentacao/obj/
+Reserve.Dominio/obj/
+Reserve.Servico/
